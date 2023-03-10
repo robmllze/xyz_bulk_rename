@@ -13,7 +13,7 @@ An extension for Visual Studio Code to quickly bulk-rename files and folders.
 
 1. Open a workspace in Visual Studio Code
 2. Right-click in the Explorer view
-3. Select "[xyztended] Start Bulk Rename" from the context menu
+3. Select "Start Bulk Rename" from the context menu
 4. A file named "BULK_RENAME.txt" will be created in the root of the workspace
 5. Open "BULK_RENAME.txt" and edit the file or folder to rename files and folders as needed
 6. Save the file
@@ -21,8 +21,7 @@ An extension for Visual Studio Code to quickly bulk-rename files and folders.
 
 ## Author
 
-Robert Mollentze
-- Email: robmllze@gmail.com
+GitHub @robmllze
 
 ## License
 
