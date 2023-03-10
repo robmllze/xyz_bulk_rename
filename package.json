@@ -3,7 +3,7 @@
   "name": "xyz-bulk-rename",
   "displayName": "Xyz Bulk Rename",
   "description": "An extension to quickly bulk-rename files and folders",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "engines": {
     "vscode": "^1.76.0"
   },
