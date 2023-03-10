@@ -15,7 +15,7 @@ An extension for Visual Studio Code to quickly bulk-rename files and folders.
 
 ## Disclaimer
 
-Bulk-renaming files can break your project if you're not careful. Be sure to try this extension with a dummy project before you use it with an important project. Always save your project before bulk-renaming files or folders in case you break something or th extension behaves in an unexpected way.
+Bulk-renaming files can break your project if you're not careful. Be sure to try this extension with a dummy project before you use it with an important project. Always save your project before bulk-renaming files or folders in case you break something or the extension behaves in an unexpected way.
 
 ## Usage
 

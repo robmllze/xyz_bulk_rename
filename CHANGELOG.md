@@ -2,6 +2,10 @@
 
 All notable changes to the "Xyz Bulk Rename" extension will be documented in this file.
 
+[0.3.3]
+
+- Fixed typo in README
+
 [0.3.2]
 
 - Improved video example
