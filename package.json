@@ -1,15 +1,16 @@
 {
+  "publisher": "robmllze",
   "name": "xyz-bulk-rename",
   "displayName": "Xyz Bulk Rename",
   "description": "An extension to quickly bulk-rename files and folders",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.76.0"
   },
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/robmllze/xyztended_bulk_rename.git"
+    "url": "https://github.com/robmllze/xyz_bulk_rename.git"
   },
   "categories": [
     "Other"
@@ -20,7 +21,7 @@
     "commands": [
       {
         "command": "xyz-bulk-rename.start",
-        "title": "Start bulk rename"
+        "title": "[Xyz Bulk Rename] Start"
       }
     ],
     "menus": {

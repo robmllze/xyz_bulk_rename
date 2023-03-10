@@ -34,7 +34,6 @@ async function bulkRename() {
 	try {
 		await vscode.workspace.fs.writeFile(fileUri, Buffer.from(content));
 		const document = await vscode.workspace.openTextDocument(fileUri);
-		vscode.window.showTextDocument(document);
 
 		// Set up a listener for saving the BULK_RENAME.txt file
 		vscode.workspace.onDidSaveTextDocument(event => {
