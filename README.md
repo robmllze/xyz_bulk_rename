@@ -4,6 +4,8 @@ An extension for Visual Studio Code to quickly bulk-rename files and folders.
 
 ## Usage Example
 
+This video/GIF is slow so be patient...
+
 ![Usage Example](example.gif)
 
 ## Installation
