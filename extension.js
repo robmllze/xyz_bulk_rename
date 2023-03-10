@@ -27,7 +27,7 @@ async function bulkRename() {
 
 	// Generate content for BULK_RENAME.txt file, create the file and open it in the editor
 	const content = `Files:\n${fileList.join('\n')}\n\nFolders:\n${foldersList.join('\n')}`;
-	const fileName = 'BULK_RENAME.txt';
+	const fileName = '.BULK_RENAME.txt';
 	const filePath = path.join(folders[0].uri.fsPath, fileName);
 	const fileUri = vscode.Uri.file(filePath);
 

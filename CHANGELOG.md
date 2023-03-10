@@ -2,9 +2,14 @@
 
 All notable changes to the "Xyz Bulk Rename" extension will be documented in this file.
 
+[0.3.0]
+
+- *BULK_RENAME.txt* will now be *.BULK_RENAME.txt*
+- Updated README
+
 [0.2.1]
 
-- Improved README
+- Updated README
 
 [0.2.0]
 
